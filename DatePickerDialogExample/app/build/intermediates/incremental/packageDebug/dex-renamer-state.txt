@@ -1,0 +1,7 @@
+#Wed May 03 12:37:02 CST 2017
+base.0=I\:\\DatePickerDialogExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_efc068892c9802bf7d6698f02369cfbcd44d580b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=I\:\\DatePickerDialogExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd002ddcddd1f51d056e9f5b23edaaca05de6699\\classes.dex
+base.1=I\:\\DatePickerDialogExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fd002ddcddd1f51d056e9f5b23edaaca05de6699
+file.0=I\:\\DatePickerDialogExample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_efc068892c9802bf7d6698f02369cfbcd44d580b\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="I:\DatePickerDialogExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cbf8ca242d3def9039d6193d2dc5ddaf0bdd230f">
+        <dex dex="I:\DatePickerDialogExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd002ddcddd1f51d056e9f5b23edaaca05de6699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\DatePickerDialogExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="faac975c80d5f7765f94f6613a7fc9b2fdd0ed14">
+        <dex dex="I:\DatePickerDialogExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efc068892c9802bf7d6698f02369cfbcd44d580b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="I:\DatePickerDialogExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_be12b2bfe61ce84719ca8adbb64a57e21a77c233\classes.dex" />
+    </item>
+
+</items>
